@@ -1,0 +1,8 @@
+[package]
+name = "harak-thing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glib = "0.20.0"
+gtk = "0.18.1"
